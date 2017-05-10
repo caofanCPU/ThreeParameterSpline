@@ -13,6 +13,10 @@
 - [GUI plot](https://github.com/caofanCPU/ThreeParameterSpline/tree/master/src/com/xyb/cf/DataVisualization.java)
 - [Database operation by c3p0Utils and mysql connector](https://github.com/caofanCPU/ThreeParameterSpline/tree/master/src/com/xyb/util/C3P0Util.java)
 - [Encapsulating Data to a entity into TreeMap storage](https://github.com/caofanCPU/ThreeParameterSpline/tree/master/src/com/xyb/domain/Parameter.java)
-
+***
+##Highligths
+![CurveFittingPlot](http://i1.piimg.com/588926/52e76ec44ec0f763.jpg)  
+![ParametersDB](http://i1.piimg.com/588926/06f39e1a58bb6133.jpg)
+***
 ## Remarks
 &ensp;&emsp;&ensp;&emsp;You should read the reference document [**Algorithm principle**](https://github.com/caofanCPU/ThreeParameterSpline/tree/master/doc/三次参数样条曲线算法原理.pdf) for your quickStart. If you're all eagerness to see results, just executive [`ThreeParameterSplineP.jar`](https://github.com/caofanCPU/ThreeParameterSpline/tree/master/jar/ThreeParameterSplineP.jar). 
